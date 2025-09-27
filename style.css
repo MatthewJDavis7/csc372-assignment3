@@ -92,3 +92,7 @@ main article img {
     display: block;
     margin: 1px;
 }
+
+.flex-item.highlight {
+    border: 3px solid blue;
+}
